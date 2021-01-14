@@ -1,24 +1,43 @@
-# vue-photofeeler
+# Vue Photofeeler
 
-## Project setup
-```
+## Table of contents
+
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Setup](#setup)
+
+## General info
+
+Coming soon...
+
+## Technologies
+
+- HTML5
+- LESS/CSS/Atomic Design
+- Vue 3.0
+- TypeScript/JavaScript (ES6)
+- npm
+
+## Setup
+
+> To run this project, install it locally using npm
+
+### Development server (compiles and hot-reloads)
+
+```bash
+# install dependencies
 npm install
+
+# serve with hot reload at localhost:3000
+npm run start
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Production server setup
 
-### Compiles and minifies for production
-```
+```bash
+# install dependencies
+npm install
+
+# build for production with minification in the "build" directory
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

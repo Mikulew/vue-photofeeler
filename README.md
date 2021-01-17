@@ -13,9 +13,9 @@ Coming soon...
 ## Technologies
 
 - HTML5
-- LESS/CSS/Atomic Design
+- CSS/Atomic Design
 - Vue 3.0
-- TypeScript/JavaScript (ES6)
+- TypeScript/JavaScript (ES6+)
 - npm
 
 ## Setup
@@ -38,6 +38,13 @@ npm run start
 # install dependencies
 npm install
 
-# build for production with minification in the "build" directory
+# build for production with minification in the "dist" directory
 npm run build
+```
+
+### Demounting setup
+
+```bash
+# remove the "dist" directory
+npm run clean
 ```

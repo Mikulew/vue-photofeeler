@@ -13,7 +13,7 @@ Coming soon...
 ## Technologies
 
 - HTML5
-- CSS/Atomic Design
+- SCSS/Atomic Design
 - Vue 3.0
 - TypeScript/JavaScript (ES6+)
 - npm
